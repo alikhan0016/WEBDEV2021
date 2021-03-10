@@ -1,0 +1,21 @@
+.container{
+  border-style: dotted;
+
+}
+
+.header{
+  height: 100%;
+}
+
+.btn{
+
+}
+
+.list{
+  width: 100%;
+  margin: 0,auto;
+  height: 15em;
+
+  background-color: lightblue;
+
+}
